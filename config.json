@@ -1,0 +1,15 @@
+{
+    "server_url": "smtp.gmail.com:587",
+    "account": {
+        "user": "test_user",
+        "password": "test_password"
+    },
+    "emails_file": "emails.txt",
+    "message": {
+        "file": "message.html",
+        "subject": "Subject",
+        "from": "From"
+    },
+    "timeout": 40
+}
+
